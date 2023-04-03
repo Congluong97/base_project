@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@100;300&family=Nunito:wght@200;400;600&family=Sigmar+One&display=swap');
+*{
+    box-sizing: border-box;
+    font-size: 12px;
+    font-family: 'M+PLUS+Rounded+1c', sans-serif;
+}
+
+.container{
+    position: relative;
+}
+
+.center{
+    text-align: center;
+}
+
+.mg-top{
+    margin-top: 2rem;
+}
+
+.text-indent{
+    text-indent: 16px;
+}
